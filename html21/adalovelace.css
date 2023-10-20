@@ -1,0 +1,16 @@
+div{
+    background-color: gainsboro;
+    width: 630px;
+    height: 380px;;
+}
+img{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+p{
+    font-size: small;
+    width: 250px;
+    height: 220px;
+float: right;
+margin-right: 30px;
+}
